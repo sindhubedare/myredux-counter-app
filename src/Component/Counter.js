@@ -40,3 +40,6 @@ const mapStateToProps = (state) => ({
 })
 
 export default connect (mapStateToProps) (Counter);
+
+
+//reference : https://daveceddia.com/how-does-redux-work/
